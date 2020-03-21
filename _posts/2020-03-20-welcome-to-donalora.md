@@ -13,4 +13,4 @@ Which we want to do!
 
 So all the effort spent on DonaLora was kind of in vain but - worth the experience.
 We now can present with this blog focused version where we can post some news and how we are doing with our lives/businesses.
-Just share love/happiness.. emotions in general :smile:
+Just share love/happiness.. emotions in general &#128522;
