@@ -14,15 +14,57 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DonaLora
+title_separator: "|"
+subtitle: Where ideas are born
 email: info@donalora.com
 description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.donalora.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.donalora.com"
 twitter_username:
 github_username: donalora
 repository: donalora/donalora.github.io
-minimal_mistakes_skin: default
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-117860308-1"
+    anonymize_ip: false
+google_site_verification: "TNCfmN6ePVb12cLcKYnJblctOLA_14BiBG8V-ey45Ms"
+minimal_mistakes_skin: air
 search: true
+timezone: Europe/London
+author:
+  name: "Laura"
+  avatar: ""
+  bio: ""
+  location: "UK"
+  links:
+    - label: "Thread Of Fashion"
+      icon: "/assets/img/donalora-logo.png"
+      url: "https://www.thread-of-fashion.com"
+logo: /assets/img/donalora-logo.png
+breadcrumbs: true
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "http://www.facebook.com/DonaLoraShop"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/donaloraknitting_official/"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.co.uk/donaloraknitting_official/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      read_time: true
+      share: true
 
 # Build settings
 markdown: kramdown
