@@ -35,13 +35,13 @@ search: true
 timezone: Europe/London
 author:
   name: "Laura"
-  avatar: ""
-  bio: ""
+#  avatar: ""
+#  bio: ""
   location: "UK"
-  links:
-    - label: "Thread Of Fashion"
-      icon: "/assets/img/donalora-logo.png"
-      url: "https://www.thread-of-fashion.com"
+#  links:
+#    - label: "Thread Of Fashion"
+#      icon: "/assets/img/donalora-logo.png"
+#      url: "https://www.thread-of-fashion.com"
 logo: /assets/img/donalora-logo.png
 breadcrumbs: true
 footer:
