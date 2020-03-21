@@ -10,8 +10,7 @@ feature_row:
     alt: "Thread of Fashion"
     title: "Thread Of Fashion"
     excerpt: "Thread Of Fashion is online yarn shop for knitting and crochetting. Family business which is making baby steps. The idea born together with our son Margiris"
-    url: "https://www.thread-of-fashion.com"
-    btn_label: "Go To Web (same window)"
+    url: "/portfolio/thread-of-fashion/"
   - image_path: /assets/img/unsplash-gardening.jpeg
     alt: "Grow your own food"
     title: "Gardening"

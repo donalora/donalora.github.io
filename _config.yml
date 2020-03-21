@@ -52,6 +52,14 @@ footer:
       url: "https://www.pinterest.co.uk/donaloraknitting_official/"
 
 defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: splash
+      author_profile: false
+      share: true
   # _posts
   - scope:
       path: ""
@@ -66,6 +74,9 @@ markdown: kramdown
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
 collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   posts:
     output: true
     permalink: /post/:year/:month/:day/:slug
