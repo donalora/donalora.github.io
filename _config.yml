@@ -36,20 +36,20 @@ timezone: Europe/London
 author: laura
 logo: /assets/img/donalora-logo.png
 breadcrumbs: true
-footer:
-  links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "http://www.facebook.com/DonaLoraShop"
-    - label: "Etsy"
-      icon: "fab fa-fw fa-etsy"
-      url: "https://www.etsy.com/uk/shop/ThreadOfFashionByDL"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/donaloraknitting_official/"
-    - label: "Pinterest"
-      icon: "fab fa-fw fa-pinterest"
-      url: "https://www.pinterest.co.uk/donaloraknitting_official/"
+#footer:
+#  links:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook"
+#      url: "http://www.facebook.com/DonaLoraShop"
+#    - label: "Etsy"
+#      icon: "fab fa-fw fa-etsy"
+#      url: "https://www.etsy.com/uk/shop/ThreadOfFashionByDL"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://www.instagram.com/donaloraknitting_official/"
+#    - label: "Pinterest"
+#      icon: "fab fa-fw fa-pinterest"
+#      url: "https://www.pinterest.co.uk/donaloraknitting_official/"
 
 defaults:
   # _portfolio

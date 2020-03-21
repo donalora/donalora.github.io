@@ -26,3 +26,10 @@ We hope you will be satisfied the same way as we are.
 In near future, in this yarn shop you will not only find stock for your own ideas but also our own product from them.
 
 [Go to Web Shop](https://www.thread-of-fashion.com) (opens in same window)
+
+Where else you can find us?
+
+- [Facebook](http://www.facebook.com/DonaLoraShop)
+- [Etsy](https://www.etsy.com/uk/shop/ThreadOfFashionByDL)
+- [Instagram](https://www.instagram.com/donaloraknitting_official/)
+- [Pinterest](https://www.pinterest.co.uk/donaloraknitting_official/)
