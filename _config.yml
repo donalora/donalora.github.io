@@ -33,15 +33,7 @@ google_site_verification: "TNCfmN6ePVb12cLcKYnJblctOLA_14BiBG8V-ey45Ms"
 minimal_mistakes_skin: air
 search: true
 timezone: Europe/London
-author:
-  name: "Laura"
-#  avatar: ""
-#  bio: ""
-  location: "UK"
-#  links:
-#    - label: "Thread Of Fashion"
-#      icon: "/assets/img/donalora-logo.png"
-#      url: "https://www.thread-of-fashion.com"
+author: laura
 logo: /assets/img/donalora-logo.png
 breadcrumbs: true
 footer:

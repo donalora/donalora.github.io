@@ -1,0 +1,14 @@
+donatas:
+  name: "Donatas"
+  bio: "The man who codes the life, father, husband. Cat?"
+  avatar: "/assets/img/donatas.jpeg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.donatasmart.lt"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/doncem"
+laura:
+  name: "Laura"
+  bio: "Ideas generator, discrete, professional and approachable person for communication skills. Do the right thing!"

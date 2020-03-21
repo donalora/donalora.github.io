@@ -3,6 +3,7 @@ layout: single
 title:  "Welcome to DonaLora!"
 date:   2020-03-20 21:24:30 +0000
 categories: update
+author: donatas
 ---
 
 Welcome to redesinged DonaLora landing page.
