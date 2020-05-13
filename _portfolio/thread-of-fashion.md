@@ -10,20 +10,19 @@ excerpt: "Online yarn shop for knitting and crochetting. Family business which i
 
 # Thread Of Fashion
 
-Family business doing baby steps from being just a hobby.
-Foundation is quite simple.
-From the arrival of a newborn the need of creating something original just for him became imperative.
-Started to look for good quality yarns but the task seemed to be extremely hard to achieve.
-A lot of companies, types (from acrylic to silk) have been tried out and in time finally reconciled what fits and what we like.
+Thread of Fashion is a family run business making its first steps from being just a hobby.
+The foundation is quite simple, since the arrival of a newborn the need to create something original just for him has become imperative.
+The task of finding good quality yarns seemed extremely hard to achieve.
+After trying a lot of different companies and various yarns (starting from acrylic to silk) we have finally found what works best.
 
-The price and quality are our main objectives.
-It is wasteful to create things from poor quality yarns so in this shop you will only find those which are tested, selected, stood up from the rest.
-After all, handmade garments were and will be fashionable for decades.
-They can go from generation to generation so quality is exceptionally important.
+Price and quality are our main objectives.
+It is wasteful to create something of poor quality, thus in this shop we have selected products that withstood the tests and stood out from the rest.
+Afterall, handmade products have been and will always be fashionable for decades to come.
+This is where quality needs to endure generations to come.
 
-We hope you will be satisfied the same way as we are.
+We hope that you will be as satisfied with the quality as we have been.
 
-In near future, in this yarn shop you will not only find stock for your own ideas but also our own product from them.
+In the near future we hope to not only provide yarns for your ideas and creations but also to sell our own high quality products.
 
 [Go to Web Shop](https://www.thread-of-fashion.com) (opens in same window)
 
