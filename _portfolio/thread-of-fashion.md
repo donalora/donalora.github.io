@@ -30,5 +30,5 @@ Where else you can find us?
 
 - [Facebook](http://www.facebook.com/DonaLoraShop)
 - [Etsy](https://www.etsy.com/uk/shop/ThreadOfFashionByDL)
-- [Instagram](https://www.instagram.com/donaloraknitting_official/)
+- [Instagram](https://www.instagram.com/thread_of_fashion_official/)
 - [Pinterest](https://www.pinterest.co.uk/donaloraknitting_official/)
