@@ -9,7 +9,7 @@ author: laura
 ---
 
 Following last update the work never stopped.
-We continuously worked on improing key features:
+We continuously worked on improving key features:
 
 - product descriptions
 - composition
